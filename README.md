@@ -7,6 +7,7 @@ Profe:  Carlos Rios     c.rios@bue.edu.ar
 Materiales:
     Github:     https://github.com/crios2020/2025CFP8BDNoche
     Codeshare:  https://codeshare.io/crios2020
+    videos:    https://www.youtube.com/watch?v=hUP9INHmVw8&list=PLMLmotKSEKYfAXzL8O62KUgc6TpJ-mC-6
 
 Software:   
     Paquete Xampp:      https://www.apachefriends.org/
